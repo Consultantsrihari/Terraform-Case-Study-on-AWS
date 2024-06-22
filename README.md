@@ -17,4 +17,4 @@ Step 7: Use this command to create complete infrstructure & installed apache2 on
 Step 8: Infrastructure will be successfully created & Apache 2 will be successfully installed on both instances.
 
 Step 9: Apache2 installation shown on the first instance due to public IP address.
-https://medium.com/devops-guides/creating-an-architecture-using-terraform-on-aws-case-study-7cd9c1857873
+https://medium.com/@sriharimalapati/creating-an-architecture-using-terraform-on-aws-2be6ff9cbcfc
